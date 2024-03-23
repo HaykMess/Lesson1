@@ -18,7 +18,7 @@ class Lesson1 {
         System.out.println(TheEnd);
         byte u = 4;
         System.out.println(u);
-        short l = 111;
+        short l = 101;
         u = (byte) l;
         System.out.println(u);
         String s = "2";
