@@ -21,7 +21,7 @@ public class ArraysLoops {
 
         //if գործողությունները
         int d = 3;
-                if (d < 4)
+                if (d = 4)
         System.out.println("Barev");
 
 
